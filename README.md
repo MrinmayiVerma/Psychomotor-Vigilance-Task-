@@ -11,7 +11,7 @@ Psychomotor Vigilance Task (PVT) is a simple reaction-time task commonly used to
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Output](#Output)
+- [Output](#output)
 
 ---
 
@@ -38,8 +38,11 @@ This project is primarily built with:
 ## Output
 
 - **Artificial Neural Networks
-  ![alt text](https://github.com/MrinmayiVerma/NeuroSim/blob/main/Landing%20Page.jpg)
+  ![alt text](https://github.com/MrinmayiVerma/Psychomotor-Vigilance-Task-/blob/main/ANN(1).png)
+  ![alt text](https://github.com/MrinmayiVerma/Psychomotor-Vigilance-Task-/blob/main/ANN(2).png)
 - **1D Convolutional Neural Network
-  ![alt text](https://github.com/MrinmayiVerma/NeuroSim/blob/main/Neuron%20Simulation.jpg)
+  ![alt text](https://github.com/MrinmayiVerma/Psychomotor-Vigilance-Task-/blob/main/CNN(1).png)
+   ![alt text](https://github.com/MrinmayiVerma/Psychomotor-Vigilance-Task-/blob/main/CNN(2).png)
 - **Dense Neural Networks
-  ![alt text](https://github.com/MrinmayiVerma/NeuroSim/blob/main/Simulation%20History.jpg)
+  ![alt text](https://github.com/MrinmayiVerma/Psychomotor-Vigilance-Task-/blob/main/DNN(1).png)
+![alt text](https://github.com/MrinmayiVerma/Psychomotor-Vigilance-Task-/blob/main/DNN(2).png)
